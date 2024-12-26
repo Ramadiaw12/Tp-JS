@@ -1,3 +1,7 @@
+// Créer une fonction qui prend en paramétre une table de multiplication.
+// Afficher la table de multiplication.
+
+
 function multiplication(number){
     /* The line `let nonumber = 8;` is declaring a variable named `nonumber` and assigning it the value
     of 8. However, in the provided code snippet, the variable `nonumber` is not being used anywhere

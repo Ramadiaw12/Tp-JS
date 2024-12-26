@@ -1,3 +1,8 @@
+// Créer une fonction qui prend en paramètre deux nombres et le type d'opération.
+// Vérifier le type d'opération et effectuer le calcul correspondant.
+// Renvoyer le résultat.
+
+
 function addition(nbr1, nbr2){
     return nbr1 + nbr2
 }

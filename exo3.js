@@ -1,3 +1,8 @@
+// Créer un objet et ajouter des éléments.
+// Afficher les éléments de l'objet avec les boucles.
+
+
+
 let etudiantL1 = {
     nom : "Ndiaye",
     prenom : "Kadijah",

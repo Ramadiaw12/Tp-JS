@@ -1,3 +1,7 @@
+// Créer un tableau d'objets.
+// Afficher les éléments du tableau avec les boucles.
+
+
 var biblio = [
     {
         nomlivre : "Le Petit Prince",
